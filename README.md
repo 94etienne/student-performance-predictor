@@ -4,7 +4,7 @@ A machine learning web application that predicts student academic performance (P
 
 ## 🚀 Live Demo
 
-**Streamlit Cloud:** [https://94etienne-student-performance-predictor-app-streamlit-app.streamlit.app/](https://94etienne-student-performance-predictor-app-streamlit-app.streamlit.app/)
+**Streamlit Cloud:** [https://student-performance-predict.streamlit.app/](https://student-performance-predict.streamlit.app/)
 
 ## 📋 Features
 
@@ -127,10 +127,10 @@ Based on the trained model:
 2. **Visit [Streamlit Cloud](https://streamlit.io/cloud)**
 3. **Connect your GitHub account**
 4. **Deploy the app**:
-   - Repository: `your-username/student-performance-predictor`
+   - Repository: `94etienne/student-performance-predictor`
    - Branch: `main`
    - Main file path: `app.py`
-5. **Your app will be live** at: `https://94etienne-student-performance-predictor-app.streamlit.app/`
+5. **Your app will be live** at: `https://student-performance-predict.streamlit.app/`
 
 ### Deploy to Other Platforms
 
