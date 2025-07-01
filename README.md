@@ -4,7 +4,7 @@ A machine learning web application that predicts student academic performance (P
 
 ## 🚀 Live Demo
 
-**Streamlit Cloud:** [https://your-username-student-performance-predictor-app-streamlit-app.streamlit.app/](https://your-username-student-performance-predictor-app-streamlit-app.streamlit.app/)
+**Streamlit Cloud:** [https://94etienne-student-performance-predictor-app-streamlit-app.streamlit.app/](https://94etienne-student-performance-predictor-app-streamlit-app.streamlit.app/)
 
 ## 📋 Features
 
@@ -41,7 +41,7 @@ Click the live demo link above to use the app immediately without any setup!
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/student-performance-predictor.git
+git clone https://github.com/94etienne/student-performance-predictor.git
 cd student-performance-predictor
 ```
 
@@ -130,7 +130,7 @@ Based on the trained model:
    - Repository: `your-username/student-performance-predictor`
    - Branch: `main`
    - Main file path: `app.py`
-5. **Your app will be live** at: `https://your-username-student-performance-predictor-app.streamlit.app/`
+5. **Your app will be live** at: `https://94etienne-student-performance-predictor-app.streamlit.app/`
 
 ### Deploy to Other Platforms
 
@@ -160,8 +160,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **Email**: your.email@example.com
+- **GitHub**: [@94etienne](https://github.com/94etienne)
+- **Email**: ntambaraienne94@gmail.com
 
 ---
 
