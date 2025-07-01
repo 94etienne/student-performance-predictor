@@ -260,8 +260,10 @@ st.markdown("""
     <a href="https://streamlit.io" target="_blank">Learn more about Streamlit</a>
     </p>
 
-    <p>Student Performance Prediction System - Powered by Etienne NTAMBARA</p>
+<div style="text-align: center; color: #666; padding: 20px; margin-top:30px;">
+    <p>Student Admission Prediction System - Powered by Etienne NTAMBARA</p>
     <p>For support and inquiries, please contact: +250 783 716 761.</p>
+</div>
 </div>
 
 """, unsafe_allow_html=True)
